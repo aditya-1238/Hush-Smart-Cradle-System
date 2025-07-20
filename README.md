@@ -85,7 +85,7 @@
   </div>
   <br>
 
-- 📷 Live video feed accessible anytime through the app (snapshot of the image from app) (VERY LOW RES image ALERT)
+- 📷 Live video feed accessible anytime through the app (snapshot of the image from app) (VERY LOW RES image ALERT) <br>
   <img src="https://github.com/user-attachments/assets/d91980de-f11e-4507-8669-06d496b87f06" alt="blynk_ss5" width="40%" />
   <br>
 
